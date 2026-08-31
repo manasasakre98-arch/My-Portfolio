@@ -39,35 +39,15 @@ The portfolio focuses on the work itself rather than unnecessary visual effects,
 
 ## Technologies Used
 
-### Languages
-
-- C++
-- Python
-- JavaScript
-- HTML5
-- CSS3
-
-### Development Technologies
-
-- Flask
-- FastAPI
-- Node.js
-- Firebase
-- Cloud Firestore
-
-### Computer Vision & Libraries
-
-- OpenCV
-- MediaPipe
-- NumPy
-- Pandas
-- Matplotlib
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
+- HTML5 — Website structure and semantic markup
+- CSS3 — Styling, layout, responsive design, and animations
+- JavaScript — Mobile navigation and DOM interactions
+- CSS Flexbox — Navigation and component layouts
+- CSS Grid — Skills, projects, and certification layouts
+- CSS Media Queries — Responsive behavior across screen sizes
+- Git — Version control
+- GitHub — Repository and project hosting
+- Visual Studio Code — Development environment
 
 ---
 
