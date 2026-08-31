@@ -65,6 +65,7 @@ portfolio/
     └── resume/
         └── resume.pdf
 
+```
 
 ## Design Inspiration
 
